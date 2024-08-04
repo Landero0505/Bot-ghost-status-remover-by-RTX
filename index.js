@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Netflix","Listening to Spotify","Playing GTA VI"];
+const statusMessages = ["Follow juju.mm2fan.checkbio_2nd on Tiktok","I love our gummy bears ❤️❤️❤️","Follow The_Jujubes12 on Roblox","Follow Jujubes12 on Youtube","Join our Roblox group: Juju's Gummy bears <3","I hope you have a great day !!!","Bot made by Landéro0505"];
 
 
 let currentIndex = 0;
